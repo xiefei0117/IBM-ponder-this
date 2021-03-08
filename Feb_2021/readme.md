@@ -7,7 +7,7 @@ Orders to run the model:
 * run prepare_data_file.py to create pyomo input dat file
 * run vaccine.py to get results
 
-Model formulation is available at Example_PYOMO_problem_Feb_2021.pdf
+Model formulation is available at Example_PYOMO_problem_Feb_2021.pdf(https://github.com/xiefei0117/IBM_ponder_this/blob/main/Feb_2021/Example_PYOMO_problem_Feb_2021.pdf)
 
 ## Author:
 Fei Xie, xiefei0117@gmail.com
